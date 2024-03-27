@@ -3,23 +3,42 @@
     "headOffice": "North Pole",
     "established": 2024,
     "active": true,
-    "topFlavors": [{
-        "name": "Chocolate Mint",
-        "calories": 200,
-        "type": "ice-cream",
-        "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
-        "image": "https://bluescreenerror.github.io/24W-JavaScript-03-Week11/images/chocolate-mint.svg"
-    }, {
-        "name": "Peach Mango",
-        "calories": 250,
-        "type": "milkshake-type ice-cream",
-        "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
-        "image": "https://bluescreenerror.github.io/24W-JavaScript-03-Week11/images/peach-mango.svg"
-    }, {
-        "name": "Strawberry Sprinkle",
-        "calories": 300,
-        "type": "ice-cream",
-        "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
-        "image": "https://bluescreenerror.github.io/24W-JavaScript-03-Week11/images/strawberry-sprinkle.svg"
-    }]
+    "topFlavors": [
+        {
+            "name": "Chocolate Mint",
+            "calories": 200,
+            "type": "ice-cream",
+            "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
+            "image": "https://bluescreenerror.github.io/24W-JavaScript-03-Week11/images/chocolate-mint.svg"
+        },
+        {
+            "name": "Peach Mango",
+            "calories": 250,
+            "type": "milkshake-type ice-cream",
+            "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+            "image": "https://bluescreenerror.github.io/24W-JavaScript-03-Week11/images/peach-mango.svg"
+        },
+        {
+            "name": "Strawberry Sprnkle",
+            "calories": 300,
+            "type": "ice-cream",
+            "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
+            "image": "https://bluescreenerror.github.io/24W-JavaScript-03-Week11/images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "Vanilla Bean",
+            "calories": 220,
+            "type": "ice-cream",
+            "ingredients": ["Vanilla Bean Extract", "Milk", "Sugar"],
+            "image": "https://bluescreenerror.github.io/24W-JavaScript-03-Week11/images/No-Churn-Vanilla-Ice-Cream-12-hero.jpg"
+        },
+        {
+            "name": "Cookies and Cream",
+            "calories": 280,
+            "type": "ice-cream",
+            "ingredients": ["Cookies", "Cream", "Sugar"],
+            "image": "https://bluescreenerror.github.io/24W-JavaScript-03-Week11/images/cookies-and-cream-oreo-ice-cream-5.jpg"
+
+        }
+    ]
 }
